@@ -1,5 +1,21 @@
 # AtliQ-Hospitality-Analysis
-This Dashboard is build as part of Codebasics Resume challenge.
 
-Problem Statement
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data. Dataset consists of three months booking details of AtliQ hotels from different cities.
+
+## Problem Statement:
+AtliQ Grands, a chain of five-star hotels in India, is facing a decline in market share and revenue due to heightened competition and ineffective management decisions. To counter these challenges, the company aims to leverage Business and Data Intelligence. However, lacking an in-house analytics team, they seek a third-party service provider to analyze three months of booking data and deliver insights to help regain their market share and boost revenue.
+
+## End Goal:
+The objective of this project is to analyze three months of booking data from AtliQ Grands hotels, providing actionable insights and strategic recommendations to help the company recover its market share and enhance revenue in the luxury/business hotel sector.
+
+## Approach:
+Data Preparation:
+Utilized Microsoft Excel for initial data cleaning.
+
+Data Analysis and Visualization:
+Employed Power BI for advanced data cleaning and modeling using a Snowflake Schema.
+Developed dashboards incorporating key metrics such as revenue generated, cancellation rate percentage, occupancy percentage, and average rating.
+Created various visualizations, including tables, line charts, bar charts, and pie charts, to effectively communicate insights.
+
+Outcome:
+Conducted a thorough analysis of three months of booking data to identify trends, patterns, and areas for improvement.
+Delivered strategic recommendations based on data-driven insights to help AtliQ Grands reclaim market share and drive revenue growth.
